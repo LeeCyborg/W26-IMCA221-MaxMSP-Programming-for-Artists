@@ -108,17 +108,17 @@ Source: The Academic Integrity Website
 In a class like this, you will frequently use other people’s code and examples. This is totally fine, but you should indicate where you get it from AND change it meaningfully. Work that is a direct copy from a tutorial will not be accepted, even if it is cited. Work ba sed on a tutorial should be indicated and linked.
 
 
-Letter Grade	Percentage	Grade Points
-A+	90-100	4.30
-A Exceeds expectations	85-89	4.00
-A-	80-84	3.70
-B+	77-79	3.30
-B Above Average	73-76	3.00
-B-	70-72	2.70
-C+	67-69	2.30
-C Sufficient 	63-66	2.00
-C-	60-62	1.70
-D+	57-59	1.30
-D Needs Improvement	53-56	1.00
-D-	50-52	0.70
-F Fail	0-49	0
+Letter Grade	Percentage	Grade Points.  
+A+	90-100	4.30.  
+A Exceeds expectations	85-89	4.00.   
+A-	80-84	3.70.   
+B+	77-79	3.30.   
+B Above Average	73-76	3.00.   
+B-	70-72	2.70.   
+C+	67-69	2.30.   
+C Sufficient 	63-66	2.00.   
+C-	60-62	1.70.   
+D+	57-59	1.30.   
+D Needs Improvement	53-56	1.00.   
+D-	50-52	0.70.   
+F Fail	0-49	0.   
