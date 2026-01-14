@@ -1,15 +1,15 @@
 # 35%: Final Project
 ## Individual Project
-#### Prototype: March 26
-#### Final April 9
+#### Prototype: March 26 10%
+#### Final April 9 25%
 This is a completely open project. Students can make anything they want as long as it uses the tools we learned this semester. Be sure to have a clear and strong concept.
 Think about how you want the audience to perceive your work and how you will evoke that feeling. What tools, materials, sounds, or visuals will you need? What do they say about your concept and work overall?
-## Prototype:
+## Prototype: 10% 
 Come to class with a prototype of wha you want to make. This should include some basic work in a patch and a clear idea of the final work. Bring:
 - Work to show the class
 - Questions to ask the class about how to realize the work
 - A work plan and timeline
-## Final:
+## Final: 25%
 - Be prepared to present November 25. Presentations will be 10-15 minutes depending on class size. Be ready to talk about your process, concept, and future directions.
 
 ## Grading Criteria:
@@ -34,10 +34,5 @@ Each project should include a .zip file that contains:
 
 
 ## Late Policy
-All projects are expected to be handed in by midnight of the due date. Feel free to
-make changes after critique or finish documentation. Students will be deducted
-5%per day after that. If there is any reason why you can’t meet the deadline, notify
-the
-instructor via email or in class. The sooner you notify the instructor, the sooner they
-can help you find a solution or avoid late marks. If you need help accessing student
-services or resources, please reach out.
+All projects are expected to be handed in by midnight of the due date. Feel free to make changes after critique or finish documentation. Students will be deducted 5%per day after that. If there is any reason why you can’t meet the deadline, notify
+the instructor via email or in class. The sooner you notify the instructor, the sooner they can help you find a solution or avoid late marks. If you need help accessing student services or resources, please reach out.
